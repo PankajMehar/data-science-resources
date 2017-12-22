@@ -21,3 +21,5 @@ Sometimes people ask me how to learn data analytics or which books / websites I 
 * [Denny Britz (Medium)](https://medium.com/@dennybritz)
 * [Denny Britz (Blog)](http://www.wildml.com/)
 * [Ritchie Ng](http://www.ritchieng.com/)
+* [Machine Learning Mastery](https://machinelearningmastery.com/blog/)
+* [Research at Google](https://research.google.com/pubs/papers.html)
