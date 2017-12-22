@@ -1,5 +1,5 @@
 # Data Science Resources
-Sometimes people ask me how to learn data analytics or which books / websites I currently read. For redirecting to an oveview I created this collection of useful resources about data science. Over the time I read great books and keep tracking some websites to be updated. If you need a more extensive list check also this [collection](https://github.com/bulutyazilim/awesome-datascience).
+Sometimes people ask me how to learn data analytics or which books / websites I currently read. For redirecting to an oveview I created this collection of useful resources about data science. Over the time I have read great books and keep tracking some websites to be updated. If you need a more extensive list check also this [collection](https://github.com/bulutyazilim/awesome-datascience).
 
 * [Books](#books)
 * [Websites](#websites)
