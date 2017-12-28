@@ -2,6 +2,7 @@
 Sometimes people ask me how to learn data analytics or which books / websites I currently read. For redirecting to an oveview I created this collection of useful resources about data science. Over the time I have read great books and keep tracking some websites to be updated. If you need a more extensive list check also this [collection](https://github.com/bulutyazilim/awesome-datascience).
 
 * [Books](#books)
+* [Papers](#papers)
 * [Websites](#websites)
 
 ## Books
@@ -11,6 +12,10 @@ Sometimes people ask me how to learn data analytics or which books / websites I 
 * [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/) (by Wes McKinney)
 * [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939/) (by Sebastian Raschka & Vahid Mirjalili)
 * [R for Data Science](https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399/) (by Hadley Wickham & Garrett Grolemund)
+
+## Papers
+* [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
+* [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 
 ## Websites
 * [Analytics Vidhya](https://www.analyticsvidhya.com/)
