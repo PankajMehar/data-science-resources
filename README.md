@@ -7,6 +7,7 @@ Sometimes people ask me how to learn data analytics or which books / websites I 
 
 ## Books
 * [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597/) (by Stuart Russell & Peter Norvig)
+* [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618) (by Ian Goodfellow, Yoshua Bengio & Aaron Courville)
 * [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/) (by Aurélien Géron)
 * [How to Create a Mind](https://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/0143124048/) (by Ray Kurzweil)
 * [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/) (by Wes McKinney)
@@ -14,8 +15,10 @@ Sometimes people ask me how to learn data analytics or which books / websites I 
 * [R for Data Science](https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399/) (by Hadley Wickham & Garrett Grolemund)
 
 ## Papers
+* [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 * [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
 * [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
+* [SqueezeNet](https://arxiv.org/abs/1602.07360)
 
 ## Websites
 * [Analytics Vidhya](https://www.analyticsvidhya.com/)
