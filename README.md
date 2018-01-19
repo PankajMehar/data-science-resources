@@ -15,11 +15,14 @@ Sometimes people ask me how to learn data analytics or which books / websites I 
 * [R for Data Science](https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399/) (by Hadley Wickham & Garrett Grolemund)
 
 ## Papers
+* [ADADELTA: An Adaptive Learning Rate Method](https://arxiv.org/abs/1212.5701)
 * [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
+* [Deep Learning: A Critical Appraisal](https://arxiv.org/abs/1801.00631)
 * [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 * [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
 * [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 * [SqueezeNet](https://arxiv.org/abs/1602.07360)
+* [Visualizing and Understanding Neural Models in NLP](https://arxiv.org/abs/1506.01066)
 
 ## Websites
 * [Analytics Vidhya](https://www.analyticsvidhya.com/)
