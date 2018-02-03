@@ -10,10 +10,12 @@ Sometimes people ask me how to learn data analytics or which books / websites I 
 * [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618) (by Ian Goodfellow, Yoshua Bengio & Aaron Courville)
 * [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) (by Francois Chollet)
 * [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/) (by Aurélien Géron)
+* [How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582328) (by Eric Schmidt & Jonathan Rosenberg)
 * [How to Create a Mind](https://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/0143124048/) (by Ray Kurzweil)
 * [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/) (by Wes McKinney)
 * [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939/) (by Sebastian Raschka & Vahid Mirjalili)
 * [R for Data Science](https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399/) (by Hadley Wickham & Garrett Grolemund)
+* [Search Inside Yourself](https://www.amazon.com/Search-Inside-Yourself-Unexpected-Achieving/dp/0062116932) (by Chade-Meng Tan)
 
 ## Papers
 * [ADADELTA: An Adaptive Learning Rate Method](https://arxiv.org/abs/1212.5701)
