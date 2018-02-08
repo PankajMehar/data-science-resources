@@ -1,5 +1,5 @@
 # Data Science Resources
-Sometimes people ask me how to learn data analytics or which books / websites I currently read. For redirecting to an oveview I created this collection of useful resources about data science. Over the time I have read great books and keep tracking some websites to be updated. If you need a more extensive list check also this [collection](https://github.com/bulutyazilim/awesome-datascience).
+Sometimes people ask me how to learn data analytics or which books / websites I currently read. For redirecting to an oveview I created this collection of useful resources about data science and related topics. Over the time I have read great books, papers and keep tracking some websites to be updated. If you need a more extensive list check also this [collection](https://github.com/bulutyazilim/awesome-datascience).
 
 * [Books](#books)
 * [Papers](#papers)
@@ -18,6 +18,8 @@ Sometimes people ask me how to learn data analytics or which books / websites I 
 * [Search Inside Yourself](https://www.amazon.com/Search-Inside-Yourself-Unexpected-Achieving/dp/0062116932) (by Chade-Meng Tan)
 
 ## Papers
+* [arXiv - Computer Vision and Pattern Recognition](https://arxiv.org/list/cs.CV/recent)
+* [arXiv - Artificial Intelligence](https://arxiv.org/list/cs.AI/recent)
 * [ADADELTA: An Adaptive Learning Rate Method](https://arxiv.org/abs/1212.5701)
 * [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
 * [Deep Learning: A Critical Appraisal](https://arxiv.org/abs/1801.00631)
