@@ -18,8 +18,8 @@ Sometimes people ask me how to learn data analytics or which books / websites I 
 * [Search Inside Yourself](https://www.amazon.com/Search-Inside-Yourself-Unexpected-Achieving/dp/0062116932) (by Chade-Meng Tan)
 
 ## Papers
-* [arXiv - Artificial Intelligence](https://arxiv.org/list/cs.AI/recent) - Overview of recent papers in the field of Artificial Intelligence
-* [arXiv - Computer Vision and Pattern Recognition](https://arxiv.org/list/cs.CV/recent) - Overview of recent papers in the field of Computer Vision and Pattern Recognition
+* [arXiv - Artificial Intelligence](https://arxiv.org/list/cs.AI/recent) - Overview of recent papers
+* [arXiv - Computer Vision and Pattern Recognition](https://arxiv.org/list/cs.CV/recent) - Overview of recent papers
 * [ADADELTA: An Adaptive Learning Rate Method](https://arxiv.org/abs/1212.5701)
 * [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
 * [Deep Learning: A Critical Appraisal](https://arxiv.org/abs/1801.00631)
@@ -31,12 +31,14 @@ Sometimes people ask me how to learn data analytics or which books / websites I 
 
 ## Websites
 * [Analytics Vidhya](https://www.analyticsvidhya.com/)
-* [Facebook Research](https://research.fb.com/blog/)
-* [fast.ai](http://www.fast.ai/)
-* [Dat Tran (Medium)](https://medium.com/@datitran) - I met Dat through my current work! Great guy with advanced experience!
+* [Cloudera - Blog](https://blog.cloudera.com/)
+* [Dat Tran (Medium)](https://medium.com/@datitran)
 * [Denny Britz (Medium)](https://medium.com/@dennybritz)
 * [Denny Britz (Blog)](http://www.wildml.com/)
+* [Facebook Research](https://research.fb.com/blog/)
+* [fast.ai](http://www.fast.ai/)
 * [Harvard NLP](http://nlp.seas.harvard.edu/)
+* [Hortonworks - Blog](https://hortonworks.com/blog/)
 * [Kaggle Blog](http://blog.kaggle.com/)
 * [Keras Blog](https://blog.keras.io/)
 * [Machine Learning Mastery](https://machinelearningmastery.com/blog/)
