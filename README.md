@@ -26,6 +26,7 @@ Sometimes people ask me how to learn data analytics or which books / websites I 
 * [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 * [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
 * [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
+* [On the importance of single directions for generalization](https://arxiv.org/abs/1803.06959)
 * [SqueezeNet](https://arxiv.org/abs/1602.07360)
 * [Visualizing and Understanding Neural Models in NLP](https://arxiv.org/abs/1506.01066)
 
